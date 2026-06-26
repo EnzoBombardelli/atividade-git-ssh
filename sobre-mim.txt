@@ -3,3 +3,4 @@ Me chamo Enzo Bombardelli e Silva e tenho 18 anos de idade.
 Atualmente estou cursando Engenharia de Software na UniFil e estou no primeiro ano.
 Nesta atividade eu aprendi a configurar o acesso ao GitHub por chave SSH e criar um repositório local a
 partir da minha máquina, sem utilizar clone.
+Esta linha foi adicionada diretamente pelo GitHub em uma branch separada.
